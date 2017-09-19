@@ -11,4 +11,7 @@ During this project issues with the backlight and contrast of the CharLCD were a
 
 Occasionally the CharLCD will become overrun with random characters if the wires are bumped. A short script called "fix.py" clears the LCD and resets the configuration.
 
+## Image
+
+![Image of Temperature Monitor](https://i.imgur.com/wIfG0Vk.jpg"Breadboard")
 
